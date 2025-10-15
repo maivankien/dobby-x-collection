@@ -32,7 +32,7 @@ A Discord bot that automatically collects and manages X (Twitter) links shared i
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/maivankien/dobby-x-collection.git
    cd dobby-x-collection
    ```
 
